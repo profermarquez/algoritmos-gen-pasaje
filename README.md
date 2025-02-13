@@ -6,3 +6,8 @@
 cómo el algoritmo genético aborda la búsqueda
 
 # No requiere entorno virtual y no tiene requerimientos por ser muy simple y de base matematica el algoritmo
+
+# Otros ejemplos similares: 
+- https://github.com/JoaquinAmatRodrigo/optimizacion_GA_python/blob/master/optimizacion_GA.ipynb
+- https://github.com/DavidCastilloAlvarado/GeneticAlgorithm_Scheduleoptimization
+
